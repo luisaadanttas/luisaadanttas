@@ -1,5 +1,6 @@
 ## Olá! Meu nome é Maria Luisa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
+<div>:speaking_head: portuguese, english, german (B2)<div>
+  <div>:dart:	currently learning flutter and dart</div><br>
 <div>
   <a href="https://github.com/luisaadanttas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisaadanttas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaadanttas&layout=compact&langs_count=7&theme=dracula"/>
